@@ -1,5 +1,0 @@
-2018-01-08 22:10:48  [ main:740 ] - [ ERROR ]  LAPACK DPOTRF error code: 33
-2018-01-08 22:10:58  [ main:678 ] - [ ERROR ]  LAPACK DPOTRF error code: 46
-2018-01-08 22:11:01  [ main:687 ] - [ ERROR ]  LAPACK DPOTRF error code: 45
-2018-01-08 22:11:04  [ main:691 ] - [ ERROR ]  LAPACK DPOTRF error code: 31
-2018-01-08 22:11:06  [ main:623 ] - [ ERROR ]  LAPACK DPOTRF error code: 23
